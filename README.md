@@ -84,5 +84,5 @@ PiHomeDefender is an all-in-one, self-hosted home security and automation suite 
 
 ---
 
-*This roadmap was generated using AI workflow automation. Last updated: 7/16/2025*
+*This roadmap was generated using https://www.initrepo.com - Last updated: 8/2/2025*
 ```
